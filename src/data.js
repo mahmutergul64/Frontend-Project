@@ -8,7 +8,7 @@ export const data = {
       github: "Github",
       linkedin: "Linkedin",
       githubLink: "https://github.com/mahmutergul64",
-      linkedinLink: "https://www.linkedin.com/in/enes-undefined-56390134a/",
+      linkedinLink: "https://www.linkedin.com/in/mahmut-enes-ergul-56390134a/",
     },
     skills: {
       title: "Skills",
@@ -77,7 +77,7 @@ export const data = {
       links: [
         { name: "Personal Blog", url: "https://seninsiten.com" },
         { name: "Github", url: "https://github.com/mahmutergul64" },
-        { name: "Linkedin", url: "https://www.linkedin.com/in/enes-undefined-56390134a/" },
+        { name: "Linkedin", url: "https://www.linkedin.com/in/mahmut-enes-ergul-56390134a/" },
       ]
     }
   },
@@ -90,7 +90,7 @@ export const data = {
       github: "Github",
       linkedin: "Linkedin",
       githubLink: "https://github.com/mahmutergul64",
-      linkedinLink: "https://www.linkedin.com/in/enes-undefined-56390134a/",
+      linkedinLink: "https://www.linkedin.com/in/mahmut-enes-ergul-56390134a/",
     },
     skills: {
       title: "Yetenekler",
@@ -133,7 +133,7 @@ export const data = {
           tags: ["react", "redux", "axios"],
           githubLink: "https://github.com/mahmutergul64/fsweb-s8-challenge-pizza",
           viewLink: "https://fsweb-s8-challenge-pizza-six-theta.vercel.app/",
-          image: "src/assets/images/skill1.png"
+          image: "public\skill1.png"
         },
         {
           title: "Random Jokes",
@@ -141,7 +141,7 @@ export const data = {
           tags: ["react", "axios", "css"],
           githubLink: "#",
           viewLink: "#",
-          image: "src/assets/images/skill2.png"
+          image: "public/skill2.png"
         },
         {
           title: "Journey",
@@ -149,7 +149,7 @@ export const data = {
           tags: ["react", "router", "formik"],
           githubLink: "#",
           viewLink: "#",
-          image: "src/assets/images/skill3.png"
+          image: "public/skill3.png"
         }
       ]
     },
@@ -157,9 +157,9 @@ export const data = {
       title: "Bir sonraki ürününüz üzerinde birlikte çalışalım.",
       email: "mahmutergul64@gmail.com",
       links: [
-        { name: "Personal Blog", url: "https://seninsiten.com" },
+        { name: "Personal Blog", url: "#" },
         { name: "Github", url: "https://github.com/mahmutergul64" },
-        { name: "Linkedin", url: "https://www.linkedin.com/in/enes-undefined-56390134a/" },
+        { name: "Linkedin", url: "https://www.linkedin.com/in/mahmut-enes-ergul-56390134a/" },
       ]
     }
   }
