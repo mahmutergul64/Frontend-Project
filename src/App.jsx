@@ -48,7 +48,7 @@ function App() {
                 className="font-bold text-xs tracking-widest text-primary dark:text-[#B794F4] hover:opacity-80 transition"
               >
                  {language === 'tr' ? (
-                   <><span className="text-gray-600 dark:text-gray-300">SWİTCH TO </span>ENGLİSH</>
+                   <><span className="text-gray-600 dark:text-gray-300">SWITCH TO </span>ENGLİSH</>
                  ) : (
                    <><span className="text-gray-600 dark:text-gray-300">TÜRKÇE</span>'YE GEÇ</>
                  )}
@@ -68,7 +68,7 @@ function App() {
                   
                   <a 
                     href="https://www.linkedin.com/in/enes-undefined-56390134a/" 
-                    className="border border-[#3730A3] text-[#3730A3] dark:border-white dark:bg-indigo-50 dark:text-[3730A3] px-8 py-3 rounded-[6px] hover:bg-indigo-50 dark:hover:bg-gray-800 transition bg-white dark:bg-transparent font-medium "
+                    className="border border-[#3730A3] text-[#3730A3] dark:border-white dark:bg-[#E1E1FF] dark:text-[3730A3] px-8 py-3 rounded-[6px] hover:bg-indigo-50 dark:hover:bg-white transition bg-white font-medium "
                   >
                       Hire me
                   </a>
