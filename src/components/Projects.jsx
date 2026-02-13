@@ -1,8 +1,5 @@
 import { useContext, useState } from "react";
 import { SiteContext } from "../context/SiteContext";
-import skill1 from "../assets/images/skill1.png";
-import skill2 from "../assets/images/skill2.png";
-import skill3 from "../assets/images/skill3.png"; 
 
 function ProjectCard({ project, language }) {
   const [isExpanded, setIsExpanded] = useState(false);

@@ -1,3 +1,7 @@
+import project1 from "./assets/images/project1.png";
+import project2 from "./assets/images/project2.png";
+import project3 from "./assets/images/project3.png";
+
 export const data = {
   en: {
     hero: {
@@ -49,9 +53,9 @@ export const data = {
           title: "Technological Meals",
           description: "A comprehensive educational platform designed to provide coding bootcamps. Built with React and Redux for state management.",
           tags: ["react", "redux", "axios"],
-          githubLink: "#",
-          viewLink: "#",
-          image: "src/assets/images/skill1.png"
+          githubLink: "https://github.com/mahmutergul64/fsweb-s8-challenge-pizza",
+          viewLink: "https://fsweb-s8-challenge-pizza-six-theta.vercel.app/",
+          image: project1 
         },
         {
           title: "Random Jokes",
@@ -59,7 +63,7 @@ export const data = {
           tags: ["react", "axios", "css"],
           githubLink: "#",
           viewLink: "#",
-          image: "src/assets/images/skill2.png"
+          image: project2
         },
         {
           title: "Journey",
@@ -67,7 +71,7 @@ export const data = {
           tags: ["react", "router", "formik"],
           githubLink: "#",
           viewLink: "#",
-          image: "src/assets/images/skill3.png"
+          image: project3
         }
       ]
     },
@@ -133,7 +137,7 @@ export const data = {
           tags: ["react", "redux", "axios"],
           githubLink: "https://github.com/mahmutergul64/fsweb-s8-challenge-pizza",
           viewLink: "https://fsweb-s8-challenge-pizza-six-theta.vercel.app/",
-          image: "public\skill1.png"
+          image: project1
         },
         {
           title: "Random Jokes",
@@ -141,7 +145,7 @@ export const data = {
           tags: ["react", "axios", "css"],
           githubLink: "#",
           viewLink: "#",
-          image: "public/skill2.png"
+          image: project2
         },
         {
           title: "Journey",
@@ -149,7 +153,7 @@ export const data = {
           tags: ["react", "router", "formik"],
           githubLink: "#",
           viewLink: "#",
-          image: "public/skill3.png"
+          image: project3
         }
       ]
     },
