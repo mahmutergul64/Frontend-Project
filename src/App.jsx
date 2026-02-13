@@ -48,7 +48,7 @@ function App() {
                 className="font-bold text-xs tracking-widest text-primary dark:text-[#B794F4] hover:opacity-80 transition"
               >
                  {language === 'tr' ? (
-                   <><span className="text-gray-600 dark:text-gray-300">İNGİLİZCE</span>'YE GEÇ</>
+                   <><span className="text-gray-600 dark:text-gray-300">SWİTCH TO </span>ENGLİSH</>
                  ) : (
                    <><span className="text-gray-600 dark:text-gray-300">TÜRKÇE</span>'YE GEÇ</>
                  )}
