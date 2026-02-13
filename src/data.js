@@ -51,7 +51,7 @@ export const data = {
       items: [
         {
           title: "Technological Meals",
-          description: "A comprehensive educational platform designed to provide coding bootcamps. Built with React and Redux for state management.",
+          description: "In this project, I developed a highly interactive Single Page Application (SPA) called 'Teknolojik Yemekler' using React. I managed dynamic page transitions with React Router, while handling form validations and state management purely through Prop-Lifting techniques, without relying on global state management tools. I utilized Axios to send user order data to an API and process the response in the UI. Finally, I ensured the application's stability by writing end-to-end (E2E) tests for the form using Cypress.",
           tags: ["react", "redux", "axios"],
           githubLink: "https://github.com/mahmutergul64/fsweb-s8-challenge-pizza",
           viewLink: "https://fsweb-s8-challenge-pizza-six-theta.vercel.app/",
